@@ -1,6 +1,5 @@
 # TextSummarization
-Text summarization using Seq2Seq model in TensorFlow
-
+Text Summarization system using a Seq2Seq model built with TensorFlow. The Seq2Seq architecture effectively condenses length text into concise summaries, capturing essential information.
 <br>
 
 ## Results:

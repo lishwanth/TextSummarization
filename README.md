@@ -1,10 +1,6 @@
 # TextSummarization
 Text summarization using Seq2Seq model in TensorFlow
 
-## How it's done?
-Text Summarization or many other apps that get sequence input and return sequence outputs too are done using Seq2Seq models. <br> To know how it is done, please go and checkout my article on medium: <br>
-https://medium.com/@YasinShafiei/text-summarization-with-deep-learning-python-with-tensorflow-d0f3e329c3d2
-
 <br>
 
 ## Results:
